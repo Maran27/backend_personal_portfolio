@@ -1,0 +1,11 @@
+import interests from './interests'
+import works from './works'
+import brands from './brands'
+import abouts from './abouts'
+import experiences from './experiences'
+import skills from './skills'
+import workExperience from './workExperience'
+import contact from './contact'
+import certifications from './certifications'
+import educations from './educations'
+export const schemaTypes = [interests, works, workExperience, brands, certifications, educations, abouts, experiences, skills, contact]
